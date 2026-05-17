@@ -21,15 +21,3 @@ analyzePennySurface.m
 README.md
 .gitignore
 ```
-# Penny-Surface-Analyzer-MATLAB
-# Penny-Surface-Analyzer-MATLAB
-# Penny-Surface-Analyzer-MATLAB
-# Penny-Surface-Analyzer-MATLAB
-# Penny-Surface-Analyzer-MATLAB
-# Penny-Surface-Analyzer-MATLAB
-# Penny-Surface-Analyzer-MATLAB
-# Penny-Surface-Analyzer-MATLAB
-# Penny-Surface-Analyzer
-# Penny-Surface-Analyzer
-# Matlab-Project
-# Matlab-Project
